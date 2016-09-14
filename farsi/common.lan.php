@@ -8,11 +8,11 @@ Author Website: http://www.ibilling.io
 ------------------------------------------
 */
 
-$_L['Login'] = 'Login';
-$_L['Edit'] = 'Edit';
-$_L['Delete'] = 'Delete';
-$_L['Account'] = 'Account';
-$_L['Date'] = 'Date';
+$_L['Login'] = 'ورود';
+$_L['Edit'] = 'ویرایش';
+$_L['Delete'] = 'حذف';
+$_L['Account'] = 'جساب';
+$_L['Date'] = 'تاریخ';
 $_L['Financial_Balances'] = 'Financial Balances';
 $_L['Add_New_Account'] = 'Add New Account';
 $_L['Manage_Accounts'] = 'Manage Accounts';
